@@ -1,3 +1,19 @@
+### Тестовое задание - PHP-программист.
+
+Написать компонент с использованием ReactJS и Redux, который будет выводить список постов и комментариев к ним.  
+В качестве источника данных использовать API сервис http://jsonplaceholder.typicode.com/  
+Указанный не работает (блокирован), вместо него - https://gorest.co.in
+
+Написать простенькое REST API c использованием Yii2 фреймворка.  
+GET/books - возвращает список книг с их авторами  
+GET/author - возвращает список авторов с первыми тремя книгами этих авторов  
+GET/books?author_id=123 - возвращает список книг, принадлежащих конкретному автору  
+POST/book - добавление книги  
+POST/author - добавление автора  
+Ответы должны быть в JSON.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
